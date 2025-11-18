@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Optimizer",
+  "description": "An application that analyzes a job description and a resume, calculates a compatibility score, and rewrites the resume to be optimized for Applicant Tracking Systems (ATS).",
+  "requestFramePermissions": []
+}
